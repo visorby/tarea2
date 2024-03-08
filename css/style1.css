@@ -1,0 +1,137 @@
+.principal{
+    background-color: darkslategrey;
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap ;
+}
+.caja{
+    background-color: lightseagreen;
+    display: flex;
+    width: 595px;
+    height: 1200px;
+    margin: 14px;
+    position: relative ;
+}
+.c1{
+    background-color: rgb(221, 162, 162);
+    width: 2100px;
+    height: 350px;
+    margin: 25px;
+    position: relative;
+}
+.h1{
+    background-color: rgb(184, 168, 253);
+    width: 540px;
+    height: 120px;
+    position: absolute;
+    top: 410px;
+    right: 35px;
+}
+.h2{
+    background-color: rgb(61, 46, 128);
+    width: 540px;
+    height: 120px;
+    position: absolute;
+    top: 540px;
+    right: 35px;
+}
+.h3{
+    background-color: rgb(0, 0, 0);
+    width: 540px;
+    height: 120px;
+    position: absolute;
+    top: 670px;
+    right: 35px;
+}
+.c2{
+    background-color: rgb(238, 231, 129);
+    width: 160px;
+    height: 300px;
+    margin: 15px;
+    position: absolute;
+    top: 790px; 
+    right: 400px; 
+}
+.c3{
+    background-color: rgb(190, 238, 152);
+    width: 160px;
+    height: 300px;
+    margin: 15px;
+    position: absolute;
+    top: 790px; 
+    right: 210px; 
+}
+.c4{
+    background-color: rgb(93, 182, 123);
+    width: 160px;
+    height: 300px;
+    margin: 15px;
+    position: absolute;
+    top: 790px; 
+    right: 20px; 
+}
+.conteiner{
+    background-color: rgb(38, 80, 115);
+    width: 538px;
+    height: 210px;
+    position: absolute;
+    margin: 30px;
+}
+.conteiner1{
+    background-color: rgb(45, 149, 150);
+    width: 538px;
+    height: 210px;
+    position: absolute;
+    margin: 30px;
+    top: 230px;
+}
+.conteiner2{
+    background-color: rgb(154, 208, 194);
+    width: 538px;
+    height: 210px;
+    position: absolute;
+    margin: 30px;
+    top: 465px;
+}
+.conteiner3{
+    background-color: rgb(241, 250, 218);
+    width: 538px;
+    height: 250px;
+    position: absolute;
+    margin: 30px;
+    top: 700px;
+}
+.rectangulo{
+    background-color: rgb(31, 37, 68);
+    width: 538px;
+    height: 280px;
+    position: absolute;
+    margin: 30px;
+    
+}
+.celdas{
+    background-color: rgb(71, 79, 122);
+    width: 350px;
+    height: 350px;
+    margin: 25px;
+    position: relative;
+    top: 350px;
+}
+.cuadrado{
+    background-color: rgb(129, 104, 157);
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    margin: 30px;
+    top: 780px;
+}
+.rombo{
+    background-color: rgb(255, 208, 236);
+    width: 220px;
+    height: 220px;
+    position: absolute;
+    margin: 30px;
+    top: 800px;
+    left: 300px;
+    transform: rotate(45deg);
+}
